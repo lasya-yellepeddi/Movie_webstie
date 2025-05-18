@@ -1,6 +1,6 @@
 # ReactMovieX
 
-📽️ Movie_Website
+
 A sleek and responsive React-based movie browsing app powered by the OMDB API. Search your favorite movies, explore posters, and mark your favorites.
 
 🚀 Features
